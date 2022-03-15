@@ -1,0 +1,21 @@
+[
+    {
+        "id_juego": 1,
+        "nombre_juego": "forza",
+        "fecha_lanzamiento": "01-03-2021",
+        "descripcion": "este es un juego de carros",
+        "valor_juego": 50000,
+        "empresa": "Microsoft",
+        "valores_iniciales_juego": "FO"
+    },
+    {
+        "id_juego": 2,
+        "nombre_juego": "FIFA",
+        "fecha_lanzamiento": "10-04-2021",
+        "descripcion": "este es un juego de futbol",
+        "valor_juego": 500000,
+        "empresa": "EA",
+        "valores_iniciales_juego": "FIFA"
+    }
+]
+

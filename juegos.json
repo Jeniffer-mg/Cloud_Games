@@ -84,7 +84,7 @@
         "nombre_juego": "GOD OF WAR",
         "fecha_lanzamiento": "10-11-2018",
         "descripcion": "Este es un juego de acción-aventura",
-        "valor_juego": 190.000,
+        "valor_juego": 190000,
         "empresa": "Sony Computer Entertainment"
     },
     {
@@ -92,7 +92,7 @@
         "nombre_juego": "HALO INFINITE",
         "fecha_lanzamiento": "15-11-2021",
         "descripcion": "Este es un juego de idisparo en primera persona",
-        "valor_juego": 150.000,
+        "valor_juego": 150000,
         "empresa": "343 Industries"
     }
 ]

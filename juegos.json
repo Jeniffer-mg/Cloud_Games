@@ -81,22 +81,6 @@
     },
     {
         "id_juego": 11,
-        "nombre_juego": "LOL",
-        "fecha_lanzamiento": "30-03-2021",
-        "descripcion": "Este es un juego de carros",
-        "valor_juego": 50000,
-        "empresa": "Microsoft"
-    },
-    {
-        "id_juego": 12,
-        "nombre_juego": "MINECRAFT",
-        "fecha_lanzamiento": "10-10-2021",
-        "descripcion": "Este es un juego de futbol",
-        "valor_juego": 500000,
-        "empresa": "EA",
-    },
-    {
-        "id_juego": 13,
         "nombre_juego": "GOD OF WAR",
         "fecha_lanzamiento": "10-11-2018",
         "descripcion": "Este es un juego de acción-aventura",
@@ -104,20 +88,12 @@
         "empresa": "Sony Computer Entertainment",
     },
     {
-        "id_juego": 14,
+        "id_juego": 12,
         "nombre_juego": "HALO INFINITE",
         "fecha_lanzamiento": "15-11-2021",
         "descripcion": "Este es un juego de idisparo en primera persona",
         "valor_juego": 150.000,
         "empresa": "343 Industries",
-    },
-    {
-        "id_juego": 15,
-        "nombre_juego": "THE LAST OF US",
-        "fecha_lanzamiento": "14-06-2013",
-        "descripcion": "Este es un juego de terror y de acción y aventura",
-        "valor_juego": 500000,
-        "empresa": "Naughty Dog",
     }
 ]
 

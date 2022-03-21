@@ -85,7 +85,7 @@
         "fecha_lanzamiento": "10-11-2018",
         "descripcion": "Este es un juego de acción-aventura",
         "valor_juego": 190.000,
-        "empresa": "Sony Computer Entertainment",
+        "empresa": "Sony Computer Entertainment"
     },
     {
         "id_juego": 12,
@@ -93,7 +93,7 @@
         "fecha_lanzamiento": "15-11-2021",
         "descripcion": "Este es un juego de idisparo en primera persona",
         "valor_juego": 150.000,
-        "empresa": "343 Industries",
+        "empresa": "343 Industries"
     }
 ]
 

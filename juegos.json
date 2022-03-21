@@ -1,7 +1,7 @@
 [
     {
         "id_juego": 1,
-        "nombre_juego": "forza",
+        "nombre_juego": "FORZA",
         "fecha_lanzamiento": "01-03-2021",
         "descripcion": "Este es un juego de carros",
         "valor_juego": 50000,
@@ -88,6 +88,24 @@
         "valor_juego": 85000,
         "empresa": "NAMCO Studios",
         "valores_iniciales_juego": "SPFO"
+    },
+    {
+        "id_juego": 11,
+        "nombre_juego": "LOL",
+        "fecha_lanzamiento": "30-03-2021",
+        "descripcion": "Este es un juego de carros",
+        "valor_juego": 50000,
+        "empresa": "Microsoft",
+        "valores_iniciales_juego": "FO"
+    },
+    {
+        "id_juego": 12,
+        "nombre_juego": "MINECRAFT",
+        "fecha_lanzamiento": "10-10-2021",
+        "descripcion": "Este es un juego de futbol",
+        "valor_juego": 500000,
+        "empresa": "EA",
+        "valores_iniciales_juego": "FIFA"
     }
 ]
 

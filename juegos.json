@@ -100,9 +100,9 @@
     },
     {
         "id_juego": 12,
-        "nombre_juego": "MINECRAFT",
+        "nombre_juego": "GOD OF WAR",
         "fecha_lanzamiento": "10-10-2021",
-        "descripcion": "Este es un juego de futbol",
+        "descripcion": "Este es un juego",
         "valor_juego": 500000,
         "empresa": "EA",
         "valores_iniciales_juego": "FIFA"

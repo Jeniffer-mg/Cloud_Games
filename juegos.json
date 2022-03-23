@@ -76,7 +76,7 @@
         "nombre_juego": "Grand Theft Auto V",
         "fecha_lanzamiento": "15-03-2022",
         "descripcion": "Es la version mejorada y ampliada del GTA V aparecido en PS3 en 2013",
-        "valor_juego": 32000,
+        "valor_juego": 320000,
         "empresa": "NAMCO Studios",
         "valores_iniciales_juego": "GTA"
     },
@@ -93,18 +93,18 @@
         "id_juego": 11,
         "nombre_juego": "LOL",
         "fecha_lanzamiento": "30-03-2021",
-        "descripcion": "Este es un juego de carros",
+        "descripcion": "Este es un videojuego del género multijugador de arena de batalla en línea y deporte electrónico",
         "valor_juego": 50000,
-        "empresa": "Microsoft",
+        "empresa": "Riot Games",
         "valores_iniciales_juego": "FO"
     },
     {
         "id_juego": 12,
         "nombre_juego": "GOD OF WAR",
         "fecha_lanzamiento": "10-10-2021",
-        "descripcion": "Este es un juego",
+        "descripcion": "Este es un es un videojuego de acción y aventuras",
         "valor_juego": 500000,
-        "empresa": "EA",
+        "empresa": "SCEA ",
         "valores_iniciales_juego": "FIFA"
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id_juego": 1,
-        "nombre_juego": "FORZA",
+        "nombre_juego": "FORZA2",
         "fecha_lanzamiento": "01-03-2021",
         "descripcion": "Este es un juego de carros",
         "valor_juego": 50000,
